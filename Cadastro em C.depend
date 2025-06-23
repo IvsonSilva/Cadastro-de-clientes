@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729705246 source:c:\users\ivson\onedrive\documentos\projeto em c\cadastro em c\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
